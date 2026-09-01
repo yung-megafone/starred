@@ -135,10 +135,13 @@
 
 ## others 
 
+- [yung-megafone/starred](https://github.com/yung-megafone/starred) - A dynamically generated and organized list of repositories I've starred on GitHub
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm](https://github.com/GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm) - Custom firmware for the M5NanoC6 (ESP32-C6) meant to sniff and alert you of nearby Flock Safety devices. Will be integrated into a exploit tool releasing on 09/27/25 for Flock Safety devices!
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [yung-megafone/DeFlock_Boone_County](https://github.com/yung-megafone/DeFlock_Boone_County) - Open-source repository of FOIA requests, responsive records, policy analysis, and findings related to ALPR systems in Boone County, Illinois.
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell) - WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execu
+- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - This repository is the alpha foundation for the B.S. Portal modular monolith.
 - [x27/openscanner](https://github.com/x27/openscanner) - OpenScanner FWs
 - [VLEU/OpenHam](https://github.com/VLEU/OpenHam) - Tutorials, Software, Drivers, Firmware, etc
 - [FoggedLens/deflockhopper_maps](https://github.com/FoggedLens/deflockhopper_maps) - DeFlock Maps - Privacy-focused map application visualizing ALPR camera locations and calculating camera-avoidance routes - provided by FlockHopper
@@ -156,7 +159,6 @@
 - [yung-megafone/SDSorter](https://github.com/yung-megafone/SDSorter) - Scanner Data Sorter for the Uniden SDS100/200 (and beyond).  Sort millions of WAV recordings into YYYY/MM/DD folders  with a single command - fast, safe, and datahoarder-friendly.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [yung-megafone/ScriptLab](https://github.com/yung-megafone/ScriptLab) - A collection of automation scripts designed to streamline workflows related to file management, renaming, and system organization.
-- [yung-megafone/CheatSheets](https://github.com/yung-megafone/CheatSheets) - The CheatSheets repository is a collection of concise, well-structured reference guides designed to streamline workflows for various platforms, tools, and technologies. Whether you're a beginner or an
 - [bssplyco/ScriptLab](https://github.com/bssplyco/ScriptLab) - A collection of automation scripts designed to streamline workflows related to file management, renaming, and system organization.
 - [yung-megafone/OreoCPD](https://github.com/yung-megafone/OreoCPD) - Power distribution project for my Crown Vic accessories
 - [Johnw7789/forge](https://github.com/Johnw7789/forge) - Amazon account generator and toolkit. Built with Go, React, and Wails. For educational purposes ONLY.
