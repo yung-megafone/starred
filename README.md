@@ -58,17 +58,18 @@
 
 ## Others 
 
+- [yung-megafone/starred](https://github.com/yung-megafone/starred) - A dynamically generated and organized list of repositories I've starred on GitHub
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 - [x27/openscanner](https://github.com/x27/openscanner) - OpenScanner FWs
 - [VLEU/OpenHam](https://github.com/VLEU/OpenHam) - Tutorials, Software, Drivers, Firmware, etc
 - [yung-megafone/Epstein-Files](https://github.com/yung-megafone/Epstein-Files) - Public archive index for the DOJ Epstein Files releases (Datasets 1–12), aggregating official downloads, community mirrors, torrent magnets, and integrity verification to ensure long-term accessibilit
-- [yung-megafone/CheatSheets](https://github.com/yung-megafone/CheatSheets) - The CheatSheets repository is a collection of concise, well-structured reference guides designed to streamline workflows for various platforms, tools, and technologies. Whether you're a beginner or an
 
 ## Python 
 
 - [GainSec/BirdShot](https://github.com/GainSec/BirdShot) - The all-in-one offensive tool suite for all things Flock Safety. Built from the 55 vulnerabilities Jon 'GainSec' Gaines found across Flock Safety's Raven (Gunshot Detection), Picard/Bravo (Edge Comput
 - [yung-megafone/DeFlock_Boone_County](https://github.com/yung-megafone/DeFlock_Boone_County) - Open-source repository of FOIA requests, responsive records, policy analysis, and findings related to ALPR systems in Boone County, Illinois.
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell) - WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execu
+- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - This repository is the alpha foundation for the B.S. Portal modular monolith.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
@@ -91,6 +92,7 @@
 
 ## TypeScript 
 
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [FoggedLens/deflockhopper_maps](https://github.com/FoggedLens/deflockhopper_maps) - DeFlock Maps - Privacy-focused map application visualizing ALPR camera locations and calculating camera-avoidance routes - provided by FlockHopper
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [Johnw7789/forge](https://github.com/Johnw7789/forge) - Amazon account generator and toolkit. Built with Go, React, and Wails. For educational purposes ONLY.
