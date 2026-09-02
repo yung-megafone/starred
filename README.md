@@ -27,7 +27,6 @@
 
 ## C# # 
 
-- [FSP-Labs/FSP.AttendanceClock](https://github.com/FSP-Labs/FSP.AttendanceClock) - Open-source employee attendance clock — ASP.NET Core 9 + PostgreSQL
 - [x27/SentinelLoader](https://github.com/x27/SentinelLoader) - Sentinel Loader for supporting the OpenScanner firmware frequency range
 
 ## C++ 
