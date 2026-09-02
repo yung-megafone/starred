@@ -13,7 +13,6 @@
 - [cli](#cli)
 - [code-quality](#code-quality)
 - [cybersecurity](#cybersecurity)
-- [dotnet](#dotnet)
 - [embedded](#embedded)
 - [framework](#framework)
 - [go](#go)
@@ -24,11 +23,9 @@
 - [java](#java)
 - [kotlin](#kotlin)
 - [linux](#linux)
-- [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
-- [postgresql](#postgresql)
 - [privacy](#privacy)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
@@ -74,10 +71,6 @@
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
-## dotnet 
-
-- [FSP-Labs/FSP.AttendanceClock](https://github.com/FSP-Labs/FSP.AttendanceClock) - Open-source employee attendance clock — ASP.NET Core 9 + PostgreSQL
-
 ## embedded 
 
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
@@ -122,10 +115,6 @@
 
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 
-## open-source 
-
-- [FSP-Labs/FSP.AttendanceClock](https://github.com/FSP-Labs/FSP.AttendanceClock) - Open-source employee attendance clock — ASP.NET Core 9 + PostgreSQL
-
 ## osint 
 
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
@@ -168,10 +157,6 @@
 
 - [GainSec/BirdShot](https://github.com/GainSec/BirdShot) - The all-in-one offensive tool suite for all things Flock Safety. Built from the 55 vulnerabilities Jon 'GainSec' Gaines found across Flock Safety's Raven (Gunshot Detection), Picard/Bravo (Edge Comput
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-
-## postgresql 
-
-- [FSP-Labs/FSP.AttendanceClock](https://github.com/FSP-Labs/FSP.AttendanceClock) - Open-source employee attendance clock — ASP.NET Core 9 + PostgreSQL
 
 ## privacy 
 
