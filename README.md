@@ -68,7 +68,7 @@
 - [GainSec/BirdShot](https://github.com/GainSec/BirdShot) - The all-in-one offensive tool suite for all things Flock Safety. Built from the 55 vulnerabilities Jon 'GainSec' Gaines found across Flock Safety's Raven (Gunshot Detection), Picard/Bravo (Edge Comput
 - [yung-megafone/DeFlock_Boone_County](https://github.com/yung-megafone/DeFlock_Boone_County) - Open-source repository of FOIA requests, responsive records, policy analysis, and findings related to ALPR systems in Boone County, Illinois.
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell) - WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execu
-- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - This repository is the alpha foundation for the B.S. Portal modular monolith.
+- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - The alpha foundation for B.S. Portal
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
