@@ -130,7 +130,7 @@
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [yung-megafone/DeFlock_Boone_County](https://github.com/yung-megafone/DeFlock_Boone_County) - Open-source repository of FOIA requests, responsive records, policy analysis, and findings related to ALPR systems in Boone County, Illinois.
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell) - WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execu
-- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - This repository is the alpha foundation for the B.S. Portal modular monolith.
+- [yung-megafone/bs-portal](https://github.com/yung-megafone/bs-portal) - The alpha foundation for B.S. Portal
 - [x27/openscanner](https://github.com/x27/openscanner) - OpenScanner FWs
 - [VLEU/OpenHam](https://github.com/VLEU/OpenHam) - Tutorials, Software, Drivers, Firmware, etc
 - [FoggedLens/deflockhopper_maps](https://github.com/FoggedLens/deflockhopper_maps) - DeFlock Maps - Privacy-focused map application visualizing ALPR camera locations and calculating camera-avoidance routes - provided by FlockHopper
