@@ -23,6 +23,7 @@
 - [java](#java)
 - [kotlin](#kotlin)
 - [linux](#linux)
+- [machine-learning](#machine-learning)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -115,6 +116,10 @@
 
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 
+## machine-learning 
+
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+
 ## osint 
 
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
@@ -124,6 +129,8 @@
 
 ## others 
 
+- [WuJie1010/Facial-Expression-Recognition.Pytorch](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) - A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset
+- [xionghc/Facial-Expression-Recognition](https://github.com/xionghc/Facial-Expression-Recognition) - Facial-Expression-Recognition in TensorFlow. Detecting faces in video and recognize the expression(emotion).
 - [yung-megafone/starred](https://github.com/yung-megafone/starred) - A dynamically generated and organized list of repositories I've starred on GitHub
 - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm](https://github.com/GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm) - Custom firmware for the M5NanoC6 (ESP32-C6) meant to sniff and alert you of nearby Flock Safety devices. Will be integrated into a exploit tool releasing on 09/27/25 for Flock Safety devices!
@@ -164,6 +171,7 @@
 
 ## python 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
