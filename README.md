@@ -65,6 +65,9 @@
 
 ## Python 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [WuJie1010/Facial-Expression-Recognition.Pytorch](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) - A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset
+- [xionghc/Facial-Expression-Recognition](https://github.com/xionghc/Facial-Expression-Recognition) - Facial-Expression-Recognition in TensorFlow. Detecting faces in video and recognize the expression(emotion).
 - [GainSec/BirdShot](https://github.com/GainSec/BirdShot) - The all-in-one offensive tool suite for all things Flock Safety. Built from the 55 vulnerabilities Jon 'GainSec' Gaines found across Flock Safety's Raven (Gunshot Detection), Picard/Bravo (Edge Comput
 - [yung-megafone/DeFlock_Boone_County](https://github.com/yung-megafone/DeFlock_Boone_County) - Open-source repository of FOIA requests, responsive records, policy analysis, and findings related to ALPR systems in Boone County, Illinois.
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell) - WP2Shell - CVE-2026-63030 / CVE-2026-60137 This tool exploits a critical SQL injection vulnerability in the WordPress REST API `/wp-json/batch/v1` endpoint, allowing unauthenticated attackers to execu
