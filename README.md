@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
+- [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Others](#others)
@@ -51,6 +52,10 @@
 ## Java 
 
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+## JavaScript 
+
+- [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
 
 ## Kotlin 
 
@@ -99,6 +104,7 @@
 
 ## TypeScript 
 
+- [deshanj-eimsky/ObscuraX](https://github.com/deshanj-eimsky/ObscuraX) - ObscuraX is a modern media privacy toolkit for masking faces, blurring sensitive regions, and applying filters to images and videos. It features real-time preview, video playback with masking overlays
 - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [FoggedLens/deflockhopper_maps](https://github.com/FoggedLens/deflockhopper_maps) - DeFlock Maps - Privacy-focused map application visualizing ALPR camera locations and calculating camera-avoidance routes - provided by FlockHopper
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
