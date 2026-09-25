@@ -7,6 +7,7 @@
 
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -42,6 +43,10 @@
 ## ai 
 
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
+
+## ai-agent 
+
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 
 ## android 
 
@@ -155,7 +160,6 @@
 - [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [OK-DMR/ambe-codec-p25](https://github.com/OK-DMR/ambe-codec-p25) - 
 - [yung-megafone/SDSorter](https://github.com/yung-megafone/SDSorter) - Scanner Data Sorter for the Uniden SDS100/200 (and beyond).  Sort millions of WAV recordings into YYYY/MM/DD folders  with a single command - fast, safe, and datahoarder-friendly.
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [yung-megafone/ScriptLab](https://github.com/yung-megafone/ScriptLab) - A collection of automation scripts designed to streamline workflows related to file management, renaming, and system organization.
 - [bssplyco/ScriptLab](https://github.com/bssplyco/ScriptLab) - A collection of automation scripts designed to streamline workflows related to file management, renaming, and system organization.
 - [yung-megafone/OreoCPD](https://github.com/yung-megafone/OreoCPD) - Power distribution project for my Crown Vic accessories
