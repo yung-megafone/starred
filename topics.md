@@ -24,6 +24,7 @@
 - [java](#java)
 - [kotlin](#kotlin)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [osint](#osint)
 - [others](#others)
@@ -34,6 +35,7 @@
 - [redteam](#redteam)
 - [reverse-engineering](#reverse-engineering)
 - [security](#security)
+- [terminal](#terminal)
 - [website](#website)
 
 ## agents 
@@ -46,7 +48,7 @@
 
 ## ai-agent 
 
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## android 
 
@@ -66,6 +68,7 @@
 
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## code-quality 
@@ -120,6 +123,10 @@
 ## linux 
 
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
+
+## llm 
+
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## machine-learning 
 
@@ -197,6 +204,10 @@
 ## security 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+## terminal 
+
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## website 
 
