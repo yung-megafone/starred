@@ -141,6 +141,7 @@
 
 ## others 
 
+- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 - [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
 - [deshanj-eimsky/ObscuraX](https://github.com/deshanj-eimsky/ObscuraX) - ObscuraX is a modern media privacy toolkit for masking faces, blurring sensitive regions, and applying filters to images and videos. It features real-time preview, video playback with masking overlays
 - [WuJie1010/Facial-Expression-Recognition.Pytorch](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) - A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset
