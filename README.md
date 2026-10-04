@@ -18,6 +18,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -102,6 +103,10 @@
 ## Rust 
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+
+## Shell 
+
+- [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 
 ## TypeScript 
 
