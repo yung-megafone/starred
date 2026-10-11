@@ -16,6 +16,7 @@
 - [cybersecurity](#cybersecurity)
 - [embedded](#embedded)
 - [framework](#framework)
+- [gis](#gis)
 - [go](#go)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -88,6 +89,10 @@
 
 - [GainSec/BirdShot](https://github.com/GainSec/BirdShot) - The all-in-one offensive tool suite for all things Flock Safety. Built from the 55 vulnerabilities Jon 'GainSec' Gaines found across Flock Safety's Raven (Gunshot Detection), Picard/Bravo (Edge Comput
 
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
 ## go 
 
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -134,6 +139,7 @@
 
 ## osint 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
