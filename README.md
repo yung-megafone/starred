@@ -75,6 +75,7 @@
 
 ## Others 
 
+- [tylerwatt12/known-key-mbe-samples](https://github.com/tylerwatt12/known-key-mbe-samples) - Known-key encrypted MBE voice samples with matching keys and expected decrypted WAV outputs for validating P25 and DMR decryptors.
 - [yung-megafone/starred](https://github.com/yung-megafone/starred) - A dynamically generated and organized list of repositories I've starred on GitHub
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 - [x27/openscanner](https://github.com/x27/openscanner) - OpenScanner FWs
