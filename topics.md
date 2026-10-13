@@ -148,6 +148,7 @@
 
 ## others 
 
+- [tylerwatt12/known-key-mbe-samples](https://github.com/tylerwatt12/known-key-mbe-samples) - Known-key encrypted MBE voice samples with matching keys and expected decrypted WAV outputs for validating P25 and DMR decryptors.
 - [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 - [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
 - [deshanj-eimsky/ObscuraX](https://github.com/deshanj-eimsky/ObscuraX) - ObscuraX is a modern media privacy toolkit for masking faces, blurring sensitive regions, and applying filters to images and videos. It features real-time preview, video playback with masking overlays
