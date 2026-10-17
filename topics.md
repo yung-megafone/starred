@@ -180,6 +180,7 @@
 
 ## others 
 
+- [jasiek/baocoder](https://github.com/jasiek/baocoder) - AMBE voice codec extracted from a Baofeng DM32UV
 - [tylerwatt12/known-key-mbe-samples](https://github.com/tylerwatt12/known-key-mbe-samples) - Known-key encrypted MBE voice samples with matching keys and expected decrypted WAV outputs for validating P25 and DMR decryptors.
 - [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 - [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
