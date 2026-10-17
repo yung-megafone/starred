@@ -33,6 +33,7 @@
 
 ## C 
 
+- [jasiek/baocoder](https://github.com/jasiek/baocoder) - AMBE voice codec extracted from a Baofeng DM32UV
 - [GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm](https://github.com/GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm) - Custom firmware for the M5NanoC6 (ESP32-C6) meant to sniff and alert you of nearby Flock Safety devices. Will be integrated into a exploit tool releasing on 09/27/25 for Flock Safety devices!
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 - [OK-DMR/ambe-codec-p25](https://github.com/OK-DMR/ambe-codec-p25) - 
