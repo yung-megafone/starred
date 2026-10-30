@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [AutoIt](#autoit)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -30,6 +31,10 @@
 ## Astro 
 
 - [yung-megafone/NoRec-US](https://github.com/yung-megafone/NoRec-US) - NoRec.US is an open-source research and public-information project documenting government surveillance systems with statutes, contracts, policies, procurement records, public reports, FOIA responses, 
+
+## AutoIt 
+
+- [sucresware/voicemeeter-activator-autoit](https://github.com/sucresware/voicemeeter-activator-autoit) - VoiceMeeter Potato activator, written in AutoIt3
 
 ## C 
 
