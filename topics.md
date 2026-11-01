@@ -9,15 +9,14 @@
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
-- [ai-agents](#ai-agents)
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [code-quality](#code-quality)
+- [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
-- [developer-tools](#developer-tools)
 - [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [embedded](#embedded)
@@ -26,24 +25,30 @@
 - [go](#go)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [html](#html)
 - [information-gathering](#information-gathering)
 - [iot](#iot)
 - [java](#java)
+- [javascript](#javascript)
 - [kotlin](#kotlin)
 - [linux](#linux)
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [mcp](#mcp)
+- [nodejs](#nodejs)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [privacy](#privacy)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
+- [react](#react)
 - [redteam](#redteam)
 - [reverse-engineering](#reverse-engineering)
+- [rust](#rust)
 - [security](#security)
 - [terminal](#terminal)
+- [typescript](#typescript)
 - [website](#website)
 
 ## agent-skills 
@@ -56,18 +61,16 @@
 
 ## ai 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 
 ## ai-agent 
 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
-## ai-agents 
-
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
 ## android 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 - [yung-megafone/BSAwareness](https://github.com/yung-megafone/BSAwareness) - Open-source, privacy-conscious navigation and environmental awareness powered by OpenStreetMap.
@@ -96,14 +99,14 @@
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
+## cpp 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ## cybersecurity 
 
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research) - Independent research white paper by Jon “GainSec” Gaines examining the security posture of a connected public safety technology ecosystem.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-
-## developer-tools 
-
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## downloader 
 
@@ -140,6 +143,10 @@
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
+## html 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ## information-gathering 
 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -151,7 +158,12 @@
 
 ## java 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+## javascript 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## kotlin 
 
@@ -160,11 +172,11 @@
 
 ## linux 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 
 ## llm 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## machine-learning 
@@ -172,6 +184,10 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 
 ## mcp 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
+## nodejs 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
@@ -235,6 +251,7 @@
 
 ## python 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -243,22 +260,34 @@
 
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
 
+## react 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ## redteam 
 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 
 ## reverse-engineering 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
+
+## rust 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## security 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## terminal 
 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+
+## typescript 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## website 
 
