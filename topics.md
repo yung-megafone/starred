@@ -90,7 +90,6 @@
 ## cli 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -173,7 +172,6 @@
 ## linux 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [FSP-Labs/FSP.DMRCrack](https://github.com/FSP-Labs/FSP.DMRCrack) - GPU-accelerated ARC4 40-bit key recovery for DMR Enhanced Privacy. CUDA (NVIDIA) and ROCm/HIP (AMD). Windows GUI + Linux CLI.
 
 ## llm 
 
