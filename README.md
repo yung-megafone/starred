@@ -91,6 +91,7 @@
 
 ## Python 
 
+- [disturbedkh/scanner-manager](https://github.com/disturbedkh/scanner-manager) - Unofficial companion app for the Uniden BearTracker 885 (BCT885) SD card: HPD editing, RadioReference import with user-event reconciliation, ZIP/GPS coverage simulation, and Uniden Sentinel / BT885 Up
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [WuJie1010/Facial-Expression-Recognition.Pytorch](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch) - A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset
 - [xionghc/Facial-Expression-Recognition](https://github.com/xionghc/Facial-Expression-Recognition) - Facial-Expression-Recognition in TensorFlow. Detecting faces in video and recognize the expression(emotion).
