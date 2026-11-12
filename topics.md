@@ -199,6 +199,7 @@
 
 ## others 
 
+- [disturbedkh/scanner-manager](https://github.com/disturbedkh/scanner-manager) - Unofficial companion app for the Uniden BearTracker 885 (BCT885) SD card: HPD editing, RadioReference import with user-event reconciliation, ZIP/GPS coverage simulation, and Uniden Sentinel / BT885 Up
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [sucresware/voicemeeter-activator-autoit](https://github.com/sucresware/voicemeeter-activator-autoit) - VoiceMeeter Potato activator, written in AutoIt3
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
