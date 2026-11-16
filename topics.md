@@ -23,6 +23,7 @@
 - [framework](#framework)
 - [gis](#gis)
 - [go](#go)
+- [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -36,6 +37,7 @@
 - [machine-learning](#machine-learning)
 - [mcp](#mcp)
 - [nodejs](#nodejs)
+- [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -131,6 +133,10 @@
 
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 
+## golang 
+
+- [MattCheramie/GopherTrunk](https://github.com/MattCheramie/GopherTrunk) - Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
+
 ## hacking 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -189,6 +195,10 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
+## open-source 
+
+- [MattCheramie/GopherTrunk](https://github.com/MattCheramie/GopherTrunk) - Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
+
 ## osint 
 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
@@ -199,6 +209,7 @@
 
 ## others 
 
+- [spuder/What-The-Flock](https://github.com/spuder/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [disturbedkh/scanner-manager](https://github.com/disturbedkh/scanner-manager) - Unofficial companion app for the Uniden BearTracker 885 (BCT885) SD card: HPD editing, RadioReference import with user-event reconciliation, ZIP/GPS coverage simulation, and Uniden Sentinel / BT885 Up
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [sucresware/voicemeeter-activator-autoit](https://github.com/sucresware/voicemeeter-activator-autoit) - VoiceMeeter Potato activator, written in AutoIt3
