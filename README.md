@@ -38,6 +38,7 @@
 
 ## C 
 
+- [yung-megafone/What-The-Flock](https://github.com/yung-megafone/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [spuder/What-The-Flock](https://github.com/spuder/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [jasiek/baocoder](https://github.com/jasiek/baocoder) - AMBE voice codec extracted from a Baofeng DM32UV
 - [GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm](https://github.com/GainSec/Flock-Safety-Trap-Shooter-Sniffer-Alarm) - Custom firmware for the M5NanoC6 (ESP32-C6) meant to sniff and alert you of nearby Flock Safety devices. Will be integrated into a exploit tool releasing on 09/27/25 for Flock Safety devices!
@@ -69,7 +70,7 @@
 
 ## JavaScript 
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
