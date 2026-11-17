@@ -127,7 +127,7 @@
 
 ## gis 
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 
 ## go 
 
@@ -201,7 +201,7 @@
 
 ## osint 
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -209,6 +209,7 @@
 
 ## others 
 
+- [yung-megafone/What-The-Flock](https://github.com/yung-megafone/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [spuder/What-The-Flock](https://github.com/spuder/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [disturbedkh/scanner-manager](https://github.com/disturbedkh/scanner-manager) - Unofficial companion app for the Uniden BearTracker 885 (BCT885) SD card: HPD editing, RadioReference import with user-event reconciliation, ZIP/GPS coverage simulation, and Uniden Sentinel / BT885 Up
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
