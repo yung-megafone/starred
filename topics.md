@@ -34,6 +34,7 @@
 - [kotlin](#kotlin)
 - [linux](#linux)
 - [llm](#llm)
+- [lua](#lua)
 - [machine-learning](#machine-learning)
 - [mcp](#mcp)
 - [nodejs](#nodejs)
@@ -183,6 +184,10 @@
 
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
+## lua 
+
+- [mluzarow/MethHelper](https://github.com/mluzarow/MethHelper) - Meth Helper Payday 2 mod
+
 ## machine-learning 
 
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -209,6 +214,9 @@
 
 ## others 
 
+- [stefanos-git/Beginners-Guide-to-Modding-PSP3000](https://github.com/stefanos-git/Beginners-Guide-to-Modding-PSP3000) - here's an absolute beginner's guide to modding, adding plugins and adding games to your PSP3000, from a beginner to beginners.
+- [Mayzone/The-Cooker](https://github.com/Mayzone/The-Cooker) - Modworkshop friendly
+- [wiktorekdev/silentunlocker-pd2](https://github.com/wiktorekdev/silentunlocker-pd2) - PAYDAY 2 SuperBLT: full DLC unlock with CHEATER risk badges (no loadout spoof)
 - [yung-megafone/What-The-Flock](https://github.com/yung-megafone/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [spuder/What-The-Flock](https://github.com/spuder/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [disturbedkh/scanner-manager](https://github.com/disturbedkh/scanner-manager) - Unofficial companion app for the Uniden BearTracker 885 (BCT885) SD card: HPD editing, RadioReference import with user-event reconciliation, ZIP/GPS coverage simulation, and Uniden Sentinel / BT885 Up
