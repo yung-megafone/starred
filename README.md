@@ -80,10 +80,14 @@
 
 ## Lua 
 
+- [mluzarow/MethHelper](https://github.com/mluzarow/MethHelper) - Meth Helper Payday 2 mod
+- [wiktorekdev/silentunlocker-pd2](https://github.com/wiktorekdev/silentunlocker-pd2) - PAYDAY 2 SuperBLT: full DLC unlock with CHEATER risk badges (no loadout spoof)
 - [pierre-josselin/payday-2-ultimate-trainer-5](https://github.com/pierre-josselin/payday-2-ultimate-trainer-5) - One of the most popular open source cheat for PAYDAY 2.
 
 ## Others 
 
+- [stefanos-git/Beginners-Guide-to-Modding-PSP3000](https://github.com/stefanos-git/Beginners-Guide-to-Modding-PSP3000) - here's an absolute beginner's guide to modding, adding plugins and adding games to your PSP3000, from a beginner to beginners.
+- [Mayzone/The-Cooker](https://github.com/Mayzone/The-Cooker) - Modworkshop friendly
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [tylerwatt12/known-key-mbe-samples](https://github.com/tylerwatt12/known-key-mbe-samples) - Known-key encrypted MBE voice samples with matching keys and expected decrypted WAV outputs for validating P25 and DMR decryptors.
 - [yung-megafone/starred](https://github.com/yung-megafone/starred) - A dynamically generated and organized list of repositories I've starred on GitHub
