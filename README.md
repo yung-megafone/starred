@@ -38,6 +38,8 @@
 
 ## C 
 
+- [PSP-Arkfive/FasterARK](https://github.com/PSP-Arkfive/FasterARK) - ARK loader/installer for PSP/Vita.
+- [PSP-Arkfive/ARK-5](https://github.com/PSP-Arkfive/ARK-5) - Next Generation Custom Firmware for PSP and Vita's ePSP
 - [yung-megafone/What-The-Flock](https://github.com/yung-megafone/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [spuder/What-The-Flock](https://github.com/spuder/What-The-Flock) - What The Flock is an ESP32 based scanner built on the Espressif IoT Development Framework (ESP-IDF). It is designed to identify and log radio signatures associated with Flock Surveillance cameras. Thi
 - [jasiek/baocoder](https://github.com/jasiek/baocoder) - AMBE voice codec extracted from a Baofeng DM32UV
@@ -56,12 +58,14 @@
 
 ## Go 
 
+- [USA-RedDragon/dmrgo](https://github.com/USA-RedDragon/dmrgo) - Decode and encode DMR (Digital Mobile Radio) bursts and PDUs as defined in ETSI TS 102 361
 - [MattCheramie/GopherTrunk](https://github.com/MattCheramie/GopherTrunk) - Pure-Go, cross-platform RTL-SDR scanner and audio processing toolkit.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [Bearcatter/bearcatter](https://github.com/Bearcatter/bearcatter) - a system for controlling, recording and managing the Uniden SDS100 and SDS200
 
 ## HTML 
 
+- [MotorolaHashGenerator/MotorolaHashGenerator.github.io](https://github.com/MotorolaHashGenerator/MotorolaHashGenerator.github.io) - Генератор Хешів та Ключів для Motorola радіостанцій
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 
 ## Java 
@@ -86,6 +90,7 @@
 
 ## Others 
 
+- [vacantguerr/GTA-6-Switch-Version-PC-Emulator-2026](https://github.com/vacantguerr/GTA-6-Switch-Version-PC-Emulator-2026) - GTA 6 Switch Version PC Emulator 2026 — leaked build for Windows PC, fully playable 2026
 - [stefanos-git/Beginners-Guide-to-Modding-PSP3000](https://github.com/stefanos-git/Beginners-Guide-to-Modding-PSP3000) - here's an absolute beginner's guide to modding, adding plugins and adding games to your PSP3000, from a beginner to beginners.
 - [Mayzone/The-Cooker](https://github.com/Mayzone/The-Cooker) - Modworkshop friendly
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
