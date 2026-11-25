@@ -216,7 +216,6 @@
 
 - [USA-RedDragon/dmrgo](https://github.com/USA-RedDragon/dmrgo) - Decode and encode DMR (Digital Mobile Radio) bursts and PDUs as defined in ETSI TS 102 361
 - [MotorolaHashGenerator/MotorolaHashGenerator.github.io](https://github.com/MotorolaHashGenerator/MotorolaHashGenerator.github.io) - Генератор Хешів та Ключів для Motorola радіостанцій
-- [vacantguerr/GTA-6-Switch-Version-PC-Emulator-2026](https://github.com/vacantguerr/GTA-6-Switch-Version-PC-Emulator-2026) - GTA 6 Switch Version PC Emulator 2026 — leaked build for Windows PC, fully playable 2026
 - [PSP-Arkfive/FasterARK](https://github.com/PSP-Arkfive/FasterARK) - ARK loader/installer for PSP/Vita.
 - [PSP-Arkfive/ARK-5](https://github.com/PSP-Arkfive/ARK-5) - Next Generation Custom Firmware for PSP and Vita's ePSP
 - [stefanos-git/Beginners-Guide-to-Modding-PSP3000](https://github.com/stefanos-git/Beginners-Guide-to-Modding-PSP3000) - here's an absolute beginner's guide to modding, adding plugins and adding games to your PSP3000, from a beginner to beginners.
