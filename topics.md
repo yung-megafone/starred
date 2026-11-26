@@ -69,7 +69,7 @@
 
 ## ai-agent 
 
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## android 
 
@@ -94,7 +94,7 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## code-quality 
@@ -182,7 +182,7 @@
 
 ## llm 
 
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## lua 
 
@@ -306,7 +306,7 @@
 
 ## terminal 
 
-- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## typescript 
 
