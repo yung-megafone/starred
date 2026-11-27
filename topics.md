@@ -69,7 +69,7 @@
 
 ## ai-agent 
 
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## android 
 
@@ -94,7 +94,7 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yung-megafone/PulsPI](https://github.com/yung-megafone/PulsPI) - State-driven environmental and system monitor for Raspberry Pi Pico / Pico W with local LCD output, runtime command control, and extensible output logic.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## code-quality 
@@ -182,7 +182,7 @@
 
 ## llm 
 
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## lua 
 
@@ -214,6 +214,7 @@
 
 ## others 
 
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
 - [USA-RedDragon/dmrgo](https://github.com/USA-RedDragon/dmrgo) - Decode and encode DMR (Digital Mobile Radio) bursts and PDUs as defined in ETSI TS 102 361
 - [MotorolaHashGenerator/MotorolaHashGenerator.github.io](https://github.com/MotorolaHashGenerator/MotorolaHashGenerator.github.io) - Генератор Хешів та Ключів для Motorola радіостанцій
 - [PSP-Arkfive/FasterARK](https://github.com/PSP-Arkfive/FasterARK) - ARK loader/installer for PSP/Vita.
@@ -306,7 +307,7 @@
 
 ## terminal 
 
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## typescript 
 
