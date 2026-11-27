@@ -76,7 +76,7 @@
 
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [creativar/blurrr](https://github.com/creativar/blurrr) - Blurrr image editor. Blur and redact sections of your images.
-- [janus-sh/janus](https://github.com/janus-sh/janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
+- [janus-sh/Janus](https://github.com/janus-sh/Janus) - A free coding agent in your terminal. It runs on the smartest free model that is up today.
 
 ## Kotlin 
 
@@ -128,6 +128,7 @@
 
 ## Rust 
 
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 
 ## Shell 
